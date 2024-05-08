@@ -13,7 +13,7 @@
  ## Standardize or normalize the extracted features to ensure they are on a similar scale.
 # Model Training:
  ## Train the Logistic Regression model on the dataset of extracted features and corresponding labels.
-#Evaluation:
+# Evaluation:
 ## Evaluate the model's performance on a separate test set using metrics like accuracy, precision, recall, and F1 score.
 # Benefits:
 ## Logistic Regression provides interpretable results, allowing us to understand which features contribute most to the model's predictions.
